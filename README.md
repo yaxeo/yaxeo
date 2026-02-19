@@ -15,6 +15,7 @@ Possuo experiência prática com Linux, Cloud, Python, C++ e desenvolvimento de 
 
 **Sistemas Operacionais**
 - Linux
+- Windows
 
 **Segurança & Redes**
 - Nmap
