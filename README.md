@@ -1,6 +1,7 @@
 # Olá, eu sou o José! :D
 
 Um estudante de Segurança Cibernética com foco em Blue Team, Cloud Security e automação de segurança.
+
 Possuo experiência prática com Linux, Cloud, Python, C++ e desenvolvimento de ferramentas voltadas à detecção, monitoramento e estudo de ameaças.
 
 ---
@@ -38,4 +39,5 @@ Atuar como **Analista de Segurança Júnior / SOC**, com foco em monitoramento, 
 
 ## Contato
 LinkedIn: [https://www.linkedin.com/in/yaxeo/]
+
 Email: [Josealvescustodio@outlook.com]
