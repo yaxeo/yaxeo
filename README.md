@@ -1,6 +1,7 @@
 # Olá, eu sou o José! :D
 
 Um Analista de Segurança Cibernética com foco em Blue Team, Cloud Security e automação de segurança.
+
 Possuo experiência prática com Linux, Cloud, Python, C++ e desenvolvimento de ferramentas voltadas à detecção, monitoramento e estudo de ameaças.
 
 ---
