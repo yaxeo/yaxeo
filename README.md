@@ -34,7 +34,7 @@ Possuo experiência prática com Linux, Cloud, Python, C++ e desenvolvimento de 
 ---
 
 ## Objetivo Profissional
-Atuar como **Analista de Segurança Júnior / SOC**, com foco em monitoramento, análise de incidentes, resposta a eventos de segurança e automação de processos defensivos.
+Tenho interesse em atuar como **Analista de Segurança Júnior / SOC**, com foco em monitoramento, análise de incidentes, resposta a eventos de segurança e automação de processos defensivos.
 
 ---
 
