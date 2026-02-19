@@ -39,6 +39,5 @@ Atuar como **Analista de Segurança Júnior / SOC**, com foco em monitoramento, 
 ---
 
 ## Contato
-LinkedIn: [https://www.linkedin.com/in/yaxeo/]
-
-Email: [Josealvescustodio@outlook.com]
+- LinkedIn: [https://www.linkedin.com/in/yaxeo/]
+- Email: [Josealvescustodio@outlook.com]
