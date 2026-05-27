@@ -2,6 +2,6 @@ Analista de Segurança Cibernética com proficiência em Blue Team, Cloud Securi
 
 
 
-## Contato
+**Contato**
 LinkedIn: [https://www.linkedin.com/in/yaxeo/]
 Email: [Josealvescustodio@outlook.com]
